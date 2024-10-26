@@ -31,7 +31,7 @@ I’m a Software Developer with 5 years of experience in C/C++, Java, Python to 
 
 
 <h2 align="left">⭐ Other profiles: </h2>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lethidiemmy-gryffindor/">
+<a href="https://www.linkedin.com/in/lethidiemmy-gryffindor/">
 <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lethidiemmy-gryffindor/" height="22" width="22" /></a>
   <a href="https://www.kaggle.com/banhmuy">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="My Le's kaggle" height="22" width="22" /></a>
