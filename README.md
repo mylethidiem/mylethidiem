@@ -10,7 +10,9 @@ I’m a Software Developer with 5 years of experience in C/C++, Java, Python to 
 
 - 💚 Contribution
 
-🔥 Interested: 🌱 Learning  |  📚 Reading | 🌏 Travel | 🕉 | ❤️ Health
+- 🔥 Interested: 🌱 Learning  |  📚 Reading | 🌏 Travel | 🕉 | ❤️ Health
+
+- 📒 [Learning notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mylethidiem" alt="mylethidiem" /></a> </p>
 
