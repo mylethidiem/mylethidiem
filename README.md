@@ -13,9 +13,7 @@ I’m a Software Developer with 5 years of experience in C/C++, Java, Python to 
 - 🔥 Interested: 🌱 Learning  |  📚 Reading | 🌏 Travel | 🕉 | ❤️ Health
 
 - 📒 [Learning notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mylethidiem" alt="mylethidiem" /></a> </p>
-
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mylethidiem" alt="mylethidiem" /></a> </p>-->
 
 <h2 align="left"> <img src="https://www.svgrepo.com/show/273713/computing-programming-language.svg" alt="c" width="40" height="40"/> Languages and Tools:</h2>
 <p align="left"> 
@@ -55,7 +53,7 @@ I’m a Software Developer with 5 years of experience in C/C++, Java, Python to 
     <img src="https://github-readme-stats.vercel.app/api?username=mylethidiem&show_icons=true&locale=en&theme=gotham&hide_border=true" />
   </td>
   <td width="52%">
-     <img src="https://leetcode.card.workers.dev/lethidiemmy961996?theme=dark&font=source_code_pro&extension=activity&hide_border=true" />               
+     <img src="https://leetcard.jacoblin.cool/lethidiemmy961996?theme=chartreuse&font=Courier%20Prime&ext=heatmap" />               
   </td>
 </tr>
 <table>
