@@ -45,7 +45,7 @@ I’m a Software Developer with 5 years of experience in C/C++, Java, Python to 
 
 <h2 align="left">📈 Status</h2>
 
-[![My Patel's Stri](https://streak-stats.demolab.com?user=mylethidiem&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mylethidiem&theme=radical)](https://git.io/streak-stats)
 
 <table>
   <td width="48%">
