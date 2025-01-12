@@ -12,7 +12,7 @@ I’m a Software Developer with 6 years of experience in C/C++, Java, Python to 
 
 - 🔥 Interested: 🌱 Learning  |  📚 Reading | 🌏 Travel | 🕉 | ❤️ Health/Social activities
 
-- Education: I am attending the Data Science and Artificial Intelligence Program at [AI VIET NAM](https://www.facebook.com/aivietnam.edu.vn) (Nov 2024 – June 2026)
+- ˙✧˖°🎓 ༘⋆｡ ˚ Education: I am attending the Data Science and Artificial Intelligence Program at [AI VIET NAM](https://www.facebook.com/aivietnam.edu.vn) (Nov 2024 – June 2026)
 
 - 💓 [Learning notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74)
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mylethidiem" alt="mylethidiem" /></a> </p>-->
