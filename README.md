@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mylethidiem&label=Profile%20views&color=0e75b6&style=flat" alt="mylethidiem" /> </p>
 
 **Hi, I'm Diem My, a passionate software developer from Viet Nam.** \
-I’m a Software Developer with 5 years of experience in C/C++, Java, Python to develop mobile apps. Learning new language and new technology is my passion. 
+I’m a Software Developer with 6 years of experience in C/C++, Java, Python to develop apps. Learning new language and new technology is my passion. 
 
 - 👩‍💻 Working: **Software developer**
 
 - 💚 Contribution
 
-- 🔥 Interested: 🌱 Learning  |  📚 Reading | 🌏 Travel | 🕉 | ❤️ Health
+- 🔥 Interested: 🌱 Learning  |  📚 Reading | 🌏 Travel | 🕉 | ❤️ Health/Social activities
 
-- Course: [AIVN 2025](https://aivietnam.edu.vn/)
+- Education: I am attending the Data Science and Artificial Intelligence Program at [AI VIET NAM](https://www.facebook.com/aivietnam.edu.vn) (Nov 2024 – June 2026)
 
-- 📒 [Learning notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74)
+- 💓 [Learning notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74)
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mylethidiem" alt="mylethidiem" /></a> </p>-->
 
 <h2 align="left"> <img src="https://www.svgrepo.com/show/273713/computing-programming-language.svg" alt="c" width="40" height="40"/> Languages and Tools:</h2>
@@ -47,7 +47,7 @@ I’m a Software Developer with 5 years of experience in C/C++, Java, Python to 
 
 <h2 align="left">📈 Status</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mylethidiem&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mylethidiem&theme=radical)](https://streak-stats.demolab.com/?user=mylethidiem&theme=radical)
 
 <table>
   <td width="48%">
