@@ -19,7 +19,7 @@
 ---
 
 ### 🏆 Featured Projects
-- AIVN_projects: [Mini Research AI projects](https://github.com/mylethidiem/AIVN_projects)
+- Artificial Intelligence Projects: [Research AI projects](https://github.com/mylethidiem/AIVN_projects)
 <!-- - **Predicting Customer Churn**: Built a machine learning model to predict customer churn using Python, Pandas, and Scikit-learn. [GitHub](link)
 - **ETL Pipeline for E-commerce Data**: Designed and implemented a robust ETL pipeline using Apache Spark. [GitHub](link)
 - **Dashboard for Health Metrics**: Created an interactive dashboard using Power BI to analyze hospital data. [GitHub](link) -->
