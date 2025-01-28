@@ -64,5 +64,5 @@
 ---
 
 ### 🔥 Github Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=mylethidiem&theme=radical)](https://streak-stats.demolab.com/?user=mylethidiem&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem)
  
