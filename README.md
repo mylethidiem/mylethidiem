@@ -43,7 +43,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mylethidiem&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="GitHub Stats" />
     </td>
     <td width="52%">
-      <img src="https://leetcard.jacoblin.cool/lethidiemmy961996?theme=chartreuse&font=Courier%20Prime&ext=heatmap" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/lethidiemmy961996?theme=chartreuse&font=Courier%20Prime&ext=activity" alt="LeetCode Stats" />
     </td>
   </tr>
 </table>
