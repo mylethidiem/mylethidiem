@@ -33,10 +33,10 @@
 - **Programming Languages**: Python, SQL, Java, C++
 - **Data Manipulation & Analysis**: Pandas, NumPy
 - **Machine Learning**: Scikit-learn, PyTorch
+- **Version Control**: Git, SVN
 <!-- - **Big Data Technologies**: Apache Spark, Hadoop
 - **Cloud Platforms**: AWS, GCP 
 - **Data Visualization**: Power BI, Tableau, Matplotlib -->
-- **Version Control**: Git, SVN
 
 ---
 
