@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there! I'm <b><a href="https://www.linkedin.com/in/mylethidiem">My Thi Diem Le</a></b>.</h2>
+<h2 align="center">👋 Hi there! I'm <b><a href="https://linktr.ee/elizabethmyn">My Thi Diem Le</a></b>.</h2>
 
 <h3 align="center">
   A passionate Software Developer transitioning into the exciting world of <b>AI & Data Science</b>.
