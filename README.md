@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=mylethidiem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="center">I'm <b>Diem My</b>, a passionate <a href="https://www.linkedin.com/in/lethidiemmy-gryffindor/">software developer</a> from Vietnam.</h3>
+<h3 align="center">I'm <b>Diem My</b>, a passionate <a href="https://www.linkedin.com/in/mylethidiem">software developer</a> from Vietnam.</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ### 🔄 What I'm Currently Working On:
-- ˙✧˖°🎓 ༘⋆｡ ˚ Currently pursuing a **Data Science and Artificial Intelligence Program** at [AI VIET NAM](https://www.facebook.com/aivietnam.edu.vn) (Nov 2024 – June 2026).
+- ˙✧˖°🎓 ༘⋆｡ ˚ Currently pursuing a **Data Science and Artificial Intelligence Program** at [AI VIET NAM](https://aivietnam.edu.vn) (Nov 2024 – June 2026).
 - ✍🏻 **[Learning Notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74)**  
 ---
 
@@ -48,13 +48,12 @@
   </tr>
 </table>
 
-<!-- Let's make it VISIBLE
 ---
 
 ### ⭐ Practice  
 - 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**  
 - 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)**
-- 💻 **[Leetcode Profile](https://leetcode.com/lethidiemmy961996)**  -->
+- 💻 **[Leetcode Profile](https://leetcode.com/lethidiemmy961996)** 
 
 <!-- ---
 
