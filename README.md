@@ -1,21 +1,24 @@
-<h2 align="center">🍀 Hi there! 👋</h2>
+<h2 align="center">👋 Hi there! I'm <b><a href="https://www.linkedin.com/in/mylethidiem">My Thi Diem Le</a></b>.</h2>
+
+<h3 align="center">
+  A passionate Software Developer transitioning into the exciting world of <b>AI & Data Science</b>.
+</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mylethidiem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="center">I'm <b>Diem My</b>, a passionate <a href="https://www.linkedin.com/in/mylethidiem">software developer</a> from Vietnam.</h3>
-
 ---
 
-### 🌟 About Me  
-- 💻 **Current Role:** Experienced Software Developer transitioning into Data Science and Data Engineering, leveraging 7+ years of expertise in **C/C++**, **Java**, and **Python**.
-- 🌱 **Interests:** Lifelong learning, exploring AI technologies, mindfulness, and health/social initiatives.
+### 🌟 About Me
+- 💻 **Background:** An experienced Software Developer with 7+ years in **C/C++**, **Java**, and **Python**, currently **transitioning into Data Science and Data Engineering**.
+- 🌱 **Passion:** Actively exploring and diving deep into **AI technologies**, focusing on lifelong learning in this dynamic field.
   
 ---
 
-### 🔄 What I'm Currently Working On:
-- ˙✧˖°🎓 ༘⋆｡ ˚ Currently pursuing a **Data Science and Artificial Intelligence Program** at [AI VIET NAM](https://aivietnam.edu.vn) (Nov 2024 – June 2026).
-- ✍🏻 **[Learning Notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74)**  
+### 🔄 What I'm Currently Focused On:
+- 🎓 Actively pursuing a **Data Science and Artificial Intelligence Program** at [AI VIET NAM](https://aivietnam.edu.vn) (November 2024 – June 2026).
+- ✍🏻 Documenting my journey and insights in **[Learning Notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74)**.
 ---
 
 ### 🏆 Featured Projects
@@ -26,12 +29,14 @@
 
 ---
 
-### 🔑 Skills Overview
-- **Programming**: Python, SQL, Java, C++  
-<!-- - **Data Tools**: Pandas, NumPy, Matplotlib, Apache Spark, Hadoop  
-- **Cloud Platforms**: AWS, GCP  
-- **Visualization**: Power BI, Tableau  -->
-- **Version Control**: Git, SVN  
+### 🛠️ Skills & Tools
+- **Programming Languages**: Python, SQL, Java, C++
+- **Data Manipulation & Analysis**: Pandas, NumPy
+- **Machine Learning**: Scikit-learn, PyTorch
+<!-- - **Big Data Technologies**: Apache Spark, Hadoop
+- **Cloud Platforms**: AWS, GCP 
+- **Data Visualization**: Power BI, Tableau, Matplotlib -->
+- **Version Control**: Git, SVN
 
 ---
 
@@ -50,7 +55,7 @@
 
 ---
 
-### ⭐ Practice  
+### ✨ Practice  
 - 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**  
 - 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)**
 - 💻 **[Leetcode Profile](https://leetcode.com/lethidiemmy961996)** 
