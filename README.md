@@ -44,11 +44,11 @@
 <table>
   <tr>
     <td width="48%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mylethidiem&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
-      <img src="https://github-readme-stats.vercel.app/api?username=mylethidiem&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mylethidiem&show_icons=true&locale=en&layout=compact&theme=flag-india&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mylethidiem&show_icons=true&locale=en&theme=flag-india&hide_border=true" alt="GitHub Stats" />
     </td>
     <td width="52%">
-      <img src="https://leetcard.jacoblin.cool/lethidiemmy961996?theme=chartreuse&font=Courier%20Prime&ext=activity" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/lethidiemmy961996?theme=light&font=Lekton&ext=heatmap" alt="LeetCode Stats" />
     </td>
   </tr>
 </table>
