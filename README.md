@@ -71,5 +71,7 @@
 ### 🔥 Github Streak  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem)
 
+---
+
 ### ❤️‍🔥 Motivation
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/mylethidiem/mylethidiem/blob/main/quotes.json&theme=flag-india&animation=default&layout=default&font=Redressed&bgColor=white&fontColor=red&borderColor=orange)
