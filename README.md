@@ -39,6 +39,20 @@
 - **Data Visualization**: Power BI, Tableau, Matplotlib -->
 
 ---
+### ✨ Practice  
+- 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**  
+- 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)**
+- 💻 **[Leetcode Profile](https://leetcode.com/lethidiemmy961996)** 
+
+---
+
+### 🎓 Certifications  
+TBU
+<!-- 
+- **Google Data Analytics Professional Certificate**  
+- **AWS Certified Data Engineer - Associate**  -->
+
+---
 
 ### 📈 Stats  
 <div align="center">
@@ -56,19 +70,6 @@
 </table>
 
 </div>
-
----
-
-### ✨ Practice  
-- 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**  
-- 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)**
-- 💻 **[Leetcode Profile](https://leetcode.com/lethidiemmy961996)** 
-
-<!-- ---
-
-### 🎓 Certifications  
-- **Google Data Analytics Professional Certificate**  
-- **AWS Certified Data Engineer - Associate**  -->
 
 ---
 
