@@ -41,7 +41,7 @@
 ---
 ### ✨ Practice  
 - 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**  
-- 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)**
+<!-- - 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)** -->
 - 💻 **[Leetcode Profile](https://leetcode.com/lethidiemmy961996)** 
 
 ---
