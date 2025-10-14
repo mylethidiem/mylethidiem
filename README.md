@@ -49,7 +49,7 @@
 ---
 
 ### 🎓 Certifications  
-TBU
+- Google Data Analytics Professional Certificate ⚡
 <!-- 
 - **Google Data Analytics Professional Certificate**  
 - **AWS Certified Data Engineer - Associate**  -->
