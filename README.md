@@ -13,7 +13,7 @@
 ### 🌟 About Me
 - 💻 **Background:** An experienced Software Developer with 7+ years in **C/C++**, **Java**, and **Python**, currently **transitioning into Data Science and Data Engineering**.
 - 🌱 **Passion:** Actively exploring and diving deep into **AI technologies**, focusing on lifelong learning in this dynamic field.
-  
+
 ---
 
 ### 🔄 What I'm Currently Focused On:
@@ -35,30 +35,32 @@
 - **Programming Languages**: Python, SQL, Java, C++
 - **Data Manipulation & Analysis**: Pandas, NumPy
 - **Machine Learning**: Scikit-learn, PyTorch
-- **Version Control**: Git, SVN
+- **Tools/Libs**: Docker, FastAPI, Linux
+- **Version Control**: Git, SVN, DVC
+- **Cloud Platforms**: AWS, GCP
+- **Big Data Technologies**: ETL, PySpark, Databricks
 <!-- - **Big Data Technologies**: Apache Spark, Hadoop
-- **Cloud Platforms**: AWS, GCP 
 - **Data Visualization**: Power BI, Tableau, Matplotlib -->
 
 ---
-### ✨ Practice  
-- 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**  
+### ✨ Practice
+- 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**
 - 💻 **[Leetcode Profile](https://leetcode.com/lethidiemmy961996)**
   <!-- - 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)** -->
 
 ---
 
-### 🎓 Certifications  
+### 🎓 Certifications
 - Google Data Analytics Professional Certificate ⚡
-<!-- 
-- **Google Data Analytics Professional Certificate**  
+<!--
+- **Google Data Analytics Professional Certificate**
 - **AWS Certified Data Engineer - Associate**  -->
 
 ---
 
-### 📈 Stats  
+### 📈 Stats
 <div align="center">
-  
+
 <table>
   <tr>
     <td width="48%">
@@ -75,9 +77,9 @@
 
 ---
 
-### 🔥 Github Streak 
+### 🔥 Github Streak
 <div align="center">
-  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem)
 
 </div>
