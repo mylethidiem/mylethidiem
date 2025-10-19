@@ -86,8 +86,10 @@
 
 ---
 
-### ❤️‍🔥 Motivation
 <div align="center">
+<h2>❤️‍🔥 Motivation</h2>
+  
+<img src="Sleepy cat animation.gif"  alt="Animated GIF: Orange and white cartoon cat resting on a branch, relaxing in sunny, lush green scenery." width="700">
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/mylethidiem/mylethidiem/blob/main/quotes.json&theme=flag-india&animation=default&layout=default&font=Redressed&bgColor=white&fontColor=red&borderColor=orange)
 
