@@ -11,20 +11,22 @@
 ---
 
 ### 🌟 About Me
-- 💻 **Background:** An experienced Software Developer with 7+ years in **C/C++**, **Java**, and **Python**, currently **transitioning into Data Science and Data Engineering**.
-- 🌱 **Passion:** Actively exploring and diving deep into **AI technologies**, focusing on lifelong learning in this dynamic field.
+- 💻 **Background:** 7+ years as a Software Developer (C/C++, Java, Python), now focusing on **Data Science and AI applications**.
+- 🚀 **Goal:** Combine strong software engineering with data-driven intelligence to solve real-world problems.
+- 🌱 **Lifelong Learner:** Constantly exploring new AI techniques and sharing knowledge through [Learning Notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74).  
 
 ---
 
 ### 🔄 What I'm Currently Focused On:
 - 🎓 Actively pursuing a **Data Science and Artificial Intelligence Program** at [AI VIET NAM](https://aivietnam.edu.vn) (November 2024 – June 2026).
-- ✍🏻 Documenting my journey and insights in **[Learning Notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74)**.
+- ☕ Collaborating and learning with **AIO Coffee HCM Group**, working on applied AI projects and research discussions.  
+- 🧠 Building hands-on projects in Data Science & AI.
 ---
 
 ### 🏆 Featured Projects
 - Artificial Intelligence Projects: [Research AI projects](https://github.com/mylethidiem/AIVN_projects)
-- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis)
-- [dvc-mnist-demo](https://github.com/mylethidiem/dvc-mnist-demo)
+- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Multimodal Retrieval & Intelligence Platform.
+- [dvc-mnist-demo](https://github.com/mylethidiem/dvc-mnist-demo): End-to-end DVC pipeline for MNIST training & tracking.
 <!-- - **Predicting Customer Churn**: Built a machine learning model to predict customer churn using Python, Pandas, and Scikit-learn. [GitHub](link)
 - **ETL Pipeline for E-commerce Data**: Designed and implemented a robust ETL pipeline using Apache Spark. [GitHub](link)
 - **Dashboard for Health Metrics**: Created an interactive dashboard using Power BI to analyze hospital data. [GitHub](link) -->
@@ -32,13 +34,12 @@
 ---
 
 ### 🛠️ Skills & Tools
-- **Programming Languages**: Python, SQL, Java, C++
-- **Data Manipulation & Analysis**: Pandas, NumPy
-- **Machine Learning**: Scikit-learn, PyTorch
-- **Tools/Libs**: Docker, FastAPI, Linux
-- **Version Control**: Git, SVN, DVC
-- **Cloud Platforms**: AWS, GCP
-- **Big Data Technologies**: ETL, PySpark, Databricks
+- 🐍 **Languages:** Python, SQL, Java, C++  
+- 📊 **Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch  
+- ⚙️ **Dev Tools:** Docker, FastAPI, Linux  
+- 🔄 **Version Control:** Git, SVN, DVC  
+- ☁️ **Cloud & Big Data:** AWS, GCP, PySpark, Databricks, ETL workflows  
+
 <!-- - **Big Data Technologies**: Apache Spark, Hadoop
 - **Data Visualization**: Power BI, Tableau, Matplotlib -->
 
