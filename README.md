@@ -37,7 +37,7 @@
 - 🐍 **Languages:** Python, SQL, Java, C++  
 - 📊 **Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch  
 - ⚙️ **Dev Tools:** Docker, FastAPI, Linux  
-- 🔄 **Version Control:** Git, SVN, DVC  
+- 🔄 **Version Control:** Git(Github, [Gitlab](https://gitlab.com/MyLeWhiteShark)), SVN, DVC  
 - ☁️ **Cloud & Big Data:** AWS, GCP, PySpark, Databricks, ETL workflows  
 
 <!-- - **Big Data Technologies**: Apache Spark, Hadoop
