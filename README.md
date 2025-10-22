@@ -76,6 +76,14 @@
 </div>
 
 ---
+<div align="center">
+<h2>🌱 Contributions</h2>
+
+<img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
 
 <div align="center">
 <h2>🔥 Github Streak</h2>
