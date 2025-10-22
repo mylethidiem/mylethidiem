@@ -76,14 +76,6 @@
 </div>
 
 ---
-<div align="center">
-<h2>🌱 Contributions</h2>
-
-<img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
 
 <div align="center">
 <h2>🔥 Github Streak</h2>
@@ -93,11 +85,20 @@
 </div>
 
 ---
+<div align="center">
+<h2>🌱 Contributions</h2>
+
+<img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
+
+</div>
+
+---
 
 <div align="center">
 <h2>❤️‍🔥 Motivation</h2>
-<img src="Sleepy cat animation.gif"  alt="Animated GIF: Orange and white cartoon cat resting on a branch, relaxing in sunny, lush green scenery." width="700">
+<img src="Sleepy cat animation.gif"  alt="Animated GIF: Orange and white cartoon cat resting on a branch, relaxing in sunny, lush green scenery." width="1000">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/mylethidiem/mylethidiem/blob/main/quotes.json&theme=flag-india&animation=default&layout=default&font=Redressed&bgColor=white&fontColor=red&borderColor=orange)
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/mylethidiem/mylethidiem/blob/main/quotes.json&theme=flag-india&animation=default&layout=default&font=Redressed&bgColor=white&fontColor=red&borderColor=orange"  alt="Quotes" width="1000">
 
 </div>
