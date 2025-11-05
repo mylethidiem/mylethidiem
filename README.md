@@ -50,10 +50,10 @@
 - 👩‍💻 **[Hackerrank](https://www.hackerrank.com/profile/lethidiemmy96191)**
   <!-- - 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)** -->
 
-<!-- ---
+---
 
  ### 🎓 Certifications
-- Google Data Analytics Professional Certificate ⚡
+<!-- - Google Data Analytics Professional Certificate ⚡
 - [Data Analytics 101 - MazHocData Community](https://community.mazhocdata.tv/c/data-analytics-101) ⚡
 
 - **Google Data Analytics Professional Certificate**
