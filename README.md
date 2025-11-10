@@ -24,9 +24,13 @@
 ---
 
 ### 🏆 Featured Projects
-- Artificial Intelligence Projects: [Research AI projects](https://github.com/mylethidiem/AIVN_projects)
+- [zero-to-hero](https://github.com/mylethidiem/zero-to-hero): Learning project include praceticing in courses, leetcode, kaggle, datalemur...
+- [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): Data Science and Artificial Intelligence Projects.
 - [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Multimodal Retrieval & Intelligence Platform.
 - [dvc-mnist-demo](https://github.com/mylethidiem/dvc-mnist-demo): End-to-end DVC pipeline for MNIST training & tracking.
+- [Human-Activity-Recognition](https://github.com/mylethidiem/Human-Activity-Recognition): Recognize human activity
+
+
 <!-- - **Predicting Customer Churn**: Built a machine learning model to predict customer churn using Python, Pandas, and Scikit-learn. [GitHub](link)
 - **ETL Pipeline for E-commerce Data**: Designed and implemented a robust ETL pipeline using Apache Spark. [GitHub](link)
 - **Dashboard for Health Metrics**: Created an interactive dashboard using Power BI to analyze hospital data. [GitHub](link) -->
@@ -80,9 +84,10 @@
 ---
 
 <div align="center">
-<h2>🔥 Github Streak</h2>
+<h2>🔥 Github Streak and Stats</h2>
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github" />
 
 </div>
 
@@ -99,7 +104,6 @@
 <div align="center">
 <h2>❤️‍🔥 Motivation</h2>
 <img src="Sleepy cat animation.gif"  alt="Animated GIF: Orange and white cartoon cat resting on a branch, relaxing in sunny, lush green scenery." width="1000">
-
 
 <img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/mylethidiem/mylethidiem/blob/main/quotes.json&theme=flag-india&animation=default&layout=default&font=Redressed&bgColor=white&fontColor=red&borderColor=orange"  alt="Quotes" width="1000">
 
