@@ -49,10 +49,13 @@
 
 ---
 ### ✨ Practice
-- 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**
-- 💻 **[Leetcode Profile](https://leetcode.com/lethidiemmy961996)**
-- 👩‍💻 **[Hackerrank](https://www.hackerrank.com/profile/lethidiemmy96191)**
-  <!-- - 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)** -->
+Apply knowledge through challenges and portfolios. Here's my progress:
+- 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**:An online community for data scientists and machine learners.
+- 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)**: Learn Linear Algebra, Machine Learning, Deep Learning, NLP and Computer Vision practice
+- 💻 **[LeetCode Profile](https://leetcode.com/lethidiemmy961996)**: 200+ solved problems in arrays, trees, and dynamic programming.
+- 🐵 **[DataLemur - Ace the SQL & Data Science Interview](https://t.co/JG4qmAAbho)**(No profile page): Practice the most common SQL, Statistics, ML, and Python questions asked in FAANG Data Science & Data Analyst interviews!
+- 📈 **[Hackerrank Profile](https://www.hackerrank.com/profile/lethidiemmy96191)**: A programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers.
+- 🤗 **[Hugging Profile](https://huggingface.co/elizabethmyn)**: The platform where the machine learning community collaborates on models, datasets, and applications. Explore AI Apps.
 
 ---
 
