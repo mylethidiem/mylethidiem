@@ -81,26 +81,25 @@ Apply knowledge through challenges and portfolios. Here's my progress:
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-<h2>🔥 Github Streak and Stats</h2>
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github" />
 
 </div>
 
 ---
+
 <div align="center">
-<h2>🌱 Contributions</h2>
-
+<h2>🌱 Github Streak &  Contributions</h2>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem)
 <img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
-
 </div>
+
+
+<!-- 
+---
+<div align="center">
+<h2></h2>
+</div> -->
 
 ---
 
