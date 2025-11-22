@@ -19,7 +19,7 @@
 
 ### 🔄 What I'm Currently Focused On:
 - 🎓 Actively pursuing a **Data Science and Artificial Intelligence Program** at [AI VIET NAM](https://aivietnam.edu.vn) (November 2024 – June 2026).
-- ☕ Collaborating and learning with AIO Coffee HCM Group (AI Viet Nam Community) on applied **AI projects and research discussions** (Sep 2025–Present, Tue & Thu study · Sat team project) · [Project Notes](https://concrete-tray-472.notion.site/Smart-Construction-2910730a96738069bfbac400cb62034d)
+- ☕ Collaborating and learning with AIO Coffee HCM Group (AI Viet Nam Community) on applied **AI projects and research discussions** (Sep 2025–Present, Tue & Thu study)
 - 🧠 Building hands-on projects in Data Science & AI.
 ---
 
