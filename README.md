@@ -73,7 +73,7 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 <table>
   <tr>
     <td width="48%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mylethidiem&show_icons=true&locale=en&layout=compact&theme=flag-india&hide_border=true" alt="Top Languages" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylethidiem&show_icons=true&locale=en&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
       <img src="https://github-readme-stats.vercel.app/api?username=mylethidiem&show_icons=true&locale=en&theme=flag-india&hide_border=true" alt="GitHub Stats" />
     </td>
     <td width="52%">
@@ -90,7 +90,8 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 <div align="center">
 <h2>🌱 Github Streak &  Contributions</h2>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem)
+<!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem) -->
+[![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=703&card_height=201)](https://git.io/streak-stats)
 <img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
 </div>
 
