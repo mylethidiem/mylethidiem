@@ -27,7 +27,6 @@
 - [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): Data Science and Artificial Intelligence Projects.
 - [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Multimodal Retrieval & Intelligence Platform.
 - [dvc-mnist-demo](https://github.com/mylethidiem/dvc-mnist-demo): End-to-end DVC pipeline for MNIST training & tracking.
-- [Human-Activity-Recognition](https://github.com/mylethidiem/Human-Activity-Recognition): Recognize human activity
 
 
 <!-- - **Predicting Customer Churn**: Built a machine learning model to predict customer churn using Python, Pandas, and Scikit-learn. [GitHub](link)
