@@ -10,19 +10,36 @@
 
 ---
 
-### 🌟 About Me
+<div align="center">
+<h2>🌻 About Me </h2>
+<div align="left">
+  
 - 💻 **Background:** 7+ years as a Software Developer (C/C++, Java, Python), now focusing on **Data Science and AI applications**.
 - 🚀 **Goal:** Combine strong software engineering with data-driven intelligence to solve real-world problems.
 - 🌱 **Lifelong Learner:** Constantly exploring new AI techniques and sharing knowledge through [Learning Notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74).  
+</div>
+</div>
 
 ---
 
-### 🔄 What I'm Currently Focused On:
+<div align="center">
+<h2> 🔄 What I'm Currently Focused On</h2>
+
+<div align="left">
+  
 - 🎓 Actively pursuing a **Data Science and Artificial Intelligence Program** at [AI VIET NAM](https://aivietnam.edu.vn) (November 2024 – June 2026).
 - 🧠 Building hands-on projects in Data Science & AI.
+
+</div>
+</div>
+
 ---
 
-### 🏆 Featured Projects
+<div align="center">
+<h2>🏆 Featured Projects</h2>
+
+<div align="left">
+
 - [zero-to-hero](https://github.com/mylethidiem/zero-to-hero): Learning project include praceticing in courses, leetcode, kaggle, datalemur...
 - [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): Data Science and Artificial Intelligence Projects.
 - [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Multimodal Retrieval & Intelligence Platform.
@@ -32,10 +49,16 @@
 <!-- - **Predicting Customer Churn**: Built a machine learning model to predict customer churn using Python, Pandas, and Scikit-learn. [GitHub](link)
 - **ETL Pipeline for E-commerce Data**: Designed and implemented a robust ETL pipeline using Apache Spark. [GitHub](link)
 - **Dashboard for Health Metrics**: Created an interactive dashboard using Power BI to analyze hospital data. [GitHub](link) -->
+</div>
+</div>
 
 ---
 
-### 🛠️ Skills & Tools
+<div align="center">
+<h2>🛠️ Skills & Tools</h2>
+  
+<div align="left">
+  
 - 🐍 **Languages:** Python, SQL, Java, C++  
 - 📊 **Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch  
 - ⚙️ **Dev Tools:** Docker, FastAPI, Linux  
@@ -44,9 +67,16 @@
 
 <!-- - **Big Data Technologies**: Apache Spark, Hadoop
 - **Data Visualization**: Power BI, Tableau, Matplotlib -->
+</div>
+</div>
 
 ---
-### ✨ Practice
+
+<div align="center">
+<h2>✨ Practice</h2>
+
+<div align="left">
+
 Apply knowledge through challenges and portfolios. Here's my progress:
 - 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**:An online community for data scientists and machine learners.
 - 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)**: Learn Linear Algebra, Machine Learning, Deep Learning, NLP and Computer Vision practice
@@ -54,20 +84,20 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 - 🐵 **[DataLemur - Ace the SQL & Data Science Interview](https://t.co/JG4qmAAbho)**(No profile page): Practice the most common SQL, Statistics, ML, and Python questions asked in FAANG Data Science & Data Analyst interviews!
 - 📈 **[Hackerrank Profile](https://www.hackerrank.com/profile/lethidiemmy96191)**: A programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers.
 - 🤗 **[Hugging Profile](https://huggingface.co/elizabethmyn)**: The platform where the machine learning community collaborates on models, datasets, and applications. Explore AI Apps.
-
----
-
+</div>
+</div>
+<!-- ---
  ### 🎓 Certifications
-<!-- - Google Data Analytics Professional Certificate ⚡
+- Google Data Analytics Professional Certificate ⚡
 - [Data Analytics 101 - MazHocData Community](https://community.mazhocdata.tv/c/data-analytics-101) ⚡
 
 - **Google Data Analytics Professional Certificate**
-- **AWS Certified Data Engineer - Associate**  -->
+- **AWS Certified Data Engineer - Associate** 
 
 ---
 
 <div align="center">
-<h2>📈 Stats</h2>
+<h2>📈 Statistics </h2>
 <table>
   <tr>
     <td width="48%">
@@ -81,15 +111,19 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 </table>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github" />
 
-</div>
+</div>  -->
 
 ---
 
 <div align="center">
-<h2>🌱 Github Streak &  Contributions</h2>
-  
+<h2>🌱 Statistics </h2>
+
 <!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem) -->
 [![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=703&card_height=201)](https://git.io/streak-stats)
+
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github" />
+
 <img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
 </div>
 
