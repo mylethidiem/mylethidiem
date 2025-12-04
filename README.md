@@ -3,10 +3,9 @@
 <h3 align="center">
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg0NGZhMDhuaGxvcDA2ZDRienBuaXNxbnRwZDYzejVuOGVsajh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duX0jtSZeJXm3zCi7E/giphy.gif" width="40px"/>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGcyN3MxMzJkcWY0cmNleWtwZHp1cmxhOTJldDk5dWEwbGV3YW12dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5mrH1oYc3NZFLiQtIy/giphy.gif" width="40px"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTE4ZmFiMzlwMml4YWg1bW9yNmg1bXNwd2hia3A0Y2s3NXhra2l1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uWgv3uJ8TVqF58HcZQ/giphy.gif" width="40px"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXkyN3AwOGJmYTg5cnJ3aDhiemZtaTg4c2M1MjBxNmQwOXFsZmRnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jt8mEC6Kffbwbv2tNH/giphy.gif" width="40px"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXkyN3AwOGJmYTg5cnJ3aDhiemZtaTg4c2M1MjBxNmQwOXFsZmRnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jt8mEC6Kffbwbv2tNH/giphy.gif" width="35px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGcyN3MxMzJkcWY0cmNleWtwZHp1cmxhOTJldDk5dWEwbGV3YW12dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5mrH1oYc3NZFLiQtIy/giphy.gif" width="45px"/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&multiline=true&width=1200&lines=A+passionate+Software+Developer+transitioning+into+the+exciting+world+of+AI+%26+Data+Science." alt="Typing SVG" /></a>
 </h3>
 
@@ -19,7 +18,7 @@
 ---
 
 <div align="center">
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhjNDcydXFuN3JiMnpoNGIzbnRjOHpid3ZzcDdpcGRvbGpsanJqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="40">&nbsp; About Me </h2>
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhjNDcydXFuN3JiMnpoNGIzbnRjOHpid3ZzcDdpcGRvbGpsanJqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50">&nbsp; About Me </h2>
 <div align="left">
   
 - 💻 **Background:** 7+ years as a Software Developer (C/C++, Java, Python), now focusing on **Data Science and AI applications**.
@@ -33,7 +32,7 @@
 ---
 
 <div align="center">
-<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVxMms2a2JvbjMzeTh5cHFqNHZtc3lmMGV5dmtmem0yZjh3NnV0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pOgDICSAgJRIHOJobq/giphy.gif" width="40">&nbsp; Featured Projects</h2>
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVxMms2a2JvbjMzeTh5cHFqNHZtc3lmMGV5dmtmem0yZjh3NnV0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pOgDICSAgJRIHOJobq/giphy.gif" width="50">&nbsp; Featured Projects</h2>
 
 <div align="left">
 
@@ -57,7 +56,7 @@
 ---
 
 <div align="center">
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzltZDAxaHZ4MW1iYTdnaXJpbjk5ZTljYzdpMnp5emh1YTd5NjhzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDKV3w4OJzt0VpLGuV/giphy.gif" width="30">&nbsp; Practice</h2>
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhuMnNybWJqa2w0ZXB0bHl5cHV1Z2puNjdiYTR1d2dkZ3U1dDF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AuSAKecIQ5PAosdV72/giphy.gif" width="55">&nbsp; Practice</h2>
 
 <div align="left">
 
@@ -70,7 +69,7 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 - 🤗 **[Hugging Profile](https://huggingface.co/elizabethmyn)**: The platform where the machine learning community collaborates on models, datasets, and applications. Explore AI Apps.
 </div>
 </div>
-<!-- ---
+<!-- --- https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzltZDAxaHZ4MW1iYTdnaXJpbjk5ZTljYzdpMnp5emh1YTd5NjhzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDKV3w4OJzt0VpLGuV/giphy.gif
  ### 🎓 Certifications
 - Google Data Analytics Professional Certificate ⚡
 - [Data Analytics 101 - MazHocData Community](https://community.mazhocdata.tv/c/data-analytics-101) ⚡
@@ -81,7 +80,7 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 ---
 
 <div align="center">
-<h2><img src="" width="30">&nbsp; Statistics </h2>
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhuMnNybWJqa2w0ZXB0bHl5cHV1Z2puNjdiYTR1d2dkZ3U1dDF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AuSAKecIQ5PAosdV72/giphy.gif" width="50">&nbsp; Statistics </h2>
 <table>
   <tr>
     <td width="48%">
@@ -100,7 +99,7 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 ---
 
 <div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZwdDZrdjlmd2M3MTdxZ2IzN2VoYTUyb2t1eG5xcTV0OHY3NWF4MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wEuADpdR3GHy13Py9m/giphy.gif" width="30">&nbsp; Statistics </h2>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZwdDZrdjlmd2M3MTdxZ2IzN2VoYTUyb2t1eG5xcTV0OHY3NWF4MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wEuADpdR3GHy13Py9m/giphy.gif" width="50">&nbsp; Statistics </h2>
 
 <!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem) -->
 [![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=703&card_height=201)](https://git.io/streak-stats)
@@ -121,7 +120,7 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 ---
 
 <div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVubXFvcWJyaGQ4a2ZiMjgzbjhuYms5OTNibXJsYmgxbDl6b2lvbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7IxY60RnqRbflg7Th9/giphy.gif" width="40">&nbsp; Motivation</h2>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVubXFvcWJyaGQ4a2ZiMjgzbjhuYms5OTNibXJsYmgxbDl6b2lvbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7IxY60RnqRbflg7Th9/giphy.gif" width="50">&nbsp; Motivation</h2>
 <img src="Sleepy cat animation.gif"  alt="Animated GIF: Orange and white cartoon cat resting on a branch, relaxing in sunny, lush green scenery." width="1000">
 
 <img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/mylethidiem/mylethidiem/blob/main/quotes.json&theme=flag-india&animation=default&layout=default&font=Redressed&bgColor=white&fontColor=red&borderColor=orange"  alt="Quotes" width="1000">
