@@ -70,7 +70,10 @@
   
 [![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=703&card_height=201)](https://git.io/streak-stats)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github" />
+
+  <a href=""/><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github"  height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mylethidiem's Top Languages" src="https://github-readme-stats-delta-wine.vercel.app/api/top-langs/?username=mylethidiem&langs_count=8&layout=compact&theme=flag-india&hide_border=false" height="260px"/></a>
+  <br/>
 <img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
 </div>
 
