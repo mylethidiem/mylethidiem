@@ -68,28 +68,12 @@
 
 <div align="center"> 
   
-[![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=703&card_height=201)](https://git.io/streak-stats)
+<img alt="mylethidiem's Top Languages" src="https://github-readme-stats-delta-wine.vercel.app/api/top-langs/?username=mylethidiem&langs_count=8&layout=compact&theme=flag-india&hide_border=false" height="500px"/>
 
-<table>
-  <tr>
-    <td width="60%">
-      <img align="center" src="https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=503&card_height=150" height="192px />
-    </td>
-    <td width="40%">
-      <img align="center" src="https://github-readme-stats-delta-wine.vercel.app/api/top-langs/?username=mylethidiem&show_icons=true&locale=en&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="260px" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github"  height="192px"/>
-
-  <a href=""/><img src="https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=603&card_height=192"  height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mylethidiem's Top Languages" src="https://github-readme-stats-delta-wine.vercel.app/api/top-langs/?username=mylethidiem&langs_count=8&layout=compact&theme=flag-india&hide_border=false" height="260px"/></a>
-  <br/>
+[![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=703&card_height=190)](https://git.io/streak-stats)
   
 <img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
 </div>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px />
 ---
 
 <div align="center">
@@ -129,9 +113,7 @@
 </table>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github" />
 
-</div>  
-
+</div> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github&include_all_commits=true&count_private=true&layout=compact"  height="192px"/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem) -->
-
--->
 
