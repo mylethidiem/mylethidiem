@@ -72,10 +72,10 @@
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="50%">
       <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px />
     </td>
-    <td width="30%">
+    <td width="50%">
       <img align="center" src="https://github-readme-stats-delta-wine.vercel.app/api/top-langs/?username=mylethidiem&show_icons=true&locale=en&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="260px" />
     </td>
   </tr>
