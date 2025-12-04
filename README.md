@@ -56,20 +56,39 @@
 ---
 
 <div align="center">
-<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhuMnNybWJqa2w0ZXB0bHl5cHV1Z2puNjdiYTR1d2dkZ3U1dDF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AuSAKecIQ5PAosdV72/giphy.gif" width="55">&nbsp; Practice</h2>
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhuMnNybWJqa2w0ZXB0bHl5cHV1Z2puNjdiYTR1d2dkZ3U1dDF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AuSAKecIQ5PAosdV72/giphy.gif" width="70">&nbsp;
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZwdDZrdjlmd2M3MTdxZ2IzN2VoYTUyb2t1eG5xcTV0OHY3NWF4MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wEuADpdR3GHy13Py9m/giphy.gif" width="50">&nbsp;Practice & Statistics</h2>
 
-<div align="left">
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/banhmuy)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/lethidiemmy961996)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lethidiemmy96191)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co/elizabethmyn)
 
-Apply knowledge through challenges and portfolios. Here's my progress:
-- 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**:An online community for data scientists and machine learners.
+</div>
+
+<div align="center"> 
+  
+[![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=703&card_height=201)](https://git.io/streak-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github" />
+<img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
+</div>
+
+---
+
+<div align="center">
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVubXFvcWJyaGQ4a2ZiMjgzbjhuYms5OTNibXJsYmgxbDl6b2lvbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7IxY60RnqRbflg7Th9/giphy.gif" width="50">&nbsp; Motivation</h2>
+<img src="Sleepy cat animation.gif"  alt="Animated GIF: Orange and white cartoon cat resting on a branch, relaxing in sunny, lush green scenery." width="1000">
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/mylethidiem/mylethidiem/blob/main/quotes.json&theme=flag-india&animation=default&layout=default&font=Redressed&bgColor=white&fontColor=red&borderColor=orange"  alt="Quotes" width="1000">
+
+</div>
+
+
+<!-- REM SECTION
 - 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)**: Learn Linear Algebra, Machine Learning, Deep Learning, NLP and Computer Vision practice
-- 💻 **[LeetCode Profile](https://leetcode.com/lethidiemmy961996)**: 200+ solved problems in arrays, trees, and dynamic programming.
 - 🐵 **[DataLemur - Ace the SQL & Data Science Interview](https://t.co/JG4qmAAbho)**(No profile page): Practice the most common SQL, Statistics, ML, and Python questions asked in FAANG Data Science & Data Analyst interviews!
-- 📈 **[Hackerrank Profile](https://www.hackerrank.com/profile/lethidiemmy96191)**: A programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers.
-- 🤗 **[Hugging Profile](https://huggingface.co/elizabethmyn)**: The platform where the machine learning community collaborates on models, datasets, and applications. Explore AI Apps.
-</div>
-</div>
-<!-- --- https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzltZDAxaHZ4MW1iYTdnaXJpbjk5ZTljYzdpMnp5emh1YTd5NjhzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDKV3w4OJzt0VpLGuV/giphy.gif
+--- https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzltZDAxaHZ4MW1iYTdnaXJpbjk5ZTljYzdpMnp5emh1YTd5NjhzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDKV3w4OJzt0VpLGuV/giphy.gif
  ### 🎓 Certifications
 - Google Data Analytics Professional Certificate ⚡
 - [Data Analytics 101 - MazHocData Community](https://community.mazhocdata.tv/c/data-analytics-101) ⚡
@@ -94,35 +113,9 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 </table>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github" />
 
-</div>  -->
+</div>  
 
----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem) -->
 
-<div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZwdDZrdjlmd2M3MTdxZ2IzN2VoYTUyb2t1eG5xcTV0OHY3NWF4MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wEuADpdR3GHy13Py9m/giphy.gif" width="50">&nbsp; Statistics </h2>
+-->
 
-<!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem) -->
-[![GitHub Streak](https://github-readme-streak-stats-sigma-sooty.vercel.app?user=mylethidiem&card_width=703&card_height=201)](https://git.io/streak-stats)
-
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github" />
-
-<img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
-</div>
-
-
-<!-- 
----
-<div align="center">
-<h2></h2>
-</div> -->
-
----
-
-<div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVubXFvcWJyaGQ4a2ZiMjgzbjhuYms5OTNibXJsYmgxbDl6b2lvbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7IxY60RnqRbflg7Th9/giphy.gif" width="50">&nbsp; Motivation</h2>
-<img src="Sleepy cat animation.gif"  alt="Animated GIF: Orange and white cartoon cat resting on a branch, relaxing in sunny, lush green scenery." width="1000">
-
-<img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/mylethidiem/mylethidiem/blob/main/quotes.json&theme=flag-india&animation=default&layout=default&font=Redressed&bgColor=white&fontColor=red&borderColor=orange"  alt="Quotes" width="1000">
-
-</div>
