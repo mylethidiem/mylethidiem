@@ -36,9 +36,10 @@
 
 - [zero-to-hero](https://github.com/mylethidiem/zero-to-hero): Learning project include praceticing in courses, leetcode, kaggle, datalemur...
 - [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): Data Science and Artificial Intelligence Projects.
-- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Multimodal Retrieval & Intelligence Platform.
+- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis)
 - [dvc-mnist-demo](https://github.com/mylethidiem/dvc-mnist-demo): End-to-end DVC pipeline for MNIST training & tracking.
-- [Intelligent-Retail-Decision-Making-System](https://github.com/mylethidiem/Intelligent-Retail-Decision-Making-System)
+- [Intelligent-Retail-Decision-Making-System](https://github.com/mylethidiem/Intelligent-Retail-Decision-Making-System): A modular AI system designed to support data-driven retail operations powered by
+Machine Learning • XAI • Multimodal Intelligence.
 - [Heart-Sentinel](https://github.com/mylethidiem/Heart-Sentinel)
 
 
