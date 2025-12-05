@@ -11,8 +11,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mylethidiem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mylethidiem?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/mylethidiem?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
 ---
@@ -117,5 +115,8 @@
 
 </div> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylethidiem&theme=github&include_all_commits=true&count_private=true&layout=compact"  height="192px"/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mylethidiem)](https://streak-stats.demolab.com/?user=mylethidiem) 
+<img src="https://img.shields.io/github/followers/mylethidiem?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/mylethidiem?label=Stars&style=social" alt="GitHub stars" />
+-->
 
