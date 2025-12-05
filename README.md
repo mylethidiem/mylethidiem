@@ -75,7 +75,7 @@ Machine Learning • XAI • Multimodal Intelligence.
   
 <img src="https://raw.githubusercontent.com/mylethidiem/mylethidiem/output/github-contribution-grid-snake.svg" alt="Snake animation" width="2000"/>
 </div>
----
+
 
 <div align="center">
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVubXFvcWJyaGQ4a2ZiMjgzbjhuYms5OTNibXJsYmgxbDl6b2lvbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7IxY60RnqRbflg7Th9/giphy.gif" width="50">&nbsp; Motivation</h2>
