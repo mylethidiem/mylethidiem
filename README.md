@@ -36,11 +36,11 @@
 
 - [zero-to-hero](https://github.com/mylethidiem/zero-to-hero): Learning project include praceticing in courses, leetcode, kaggle, datalemur...
 - [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): Data Science and Artificial Intelligence Projects.
-- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis)
+- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Sign Languages & Human Activity Recognition
 - [dvc-mnist-demo](https://github.com/mylethidiem/dvc-mnist-demo): End-to-end DVC pipeline for MNIST training & tracking.
 - [Intelligent-Retail-Decision-Making-System](https://github.com/mylethidiem/Intelligent-Retail-Decision-Making-System): A modular AI system designed to support data-driven retail operations powered by
 Machine Learning • XAI • Multimodal Intelligence.
-- [Heart-Sentinel](https://github.com/mylethidiem/Heart-Sentinel)
+- [Heart-Sentinel](https://github.com/mylethidiem/Heart-Sentinel): Heart Sentinel is an AI-powered system that analyzes cardiovascular signals, predicts health risks, and delivers personalized lifestyle guidance.
 
 
 <!-- - **Predicting Customer Churn**: Built a machine learning model to predict customer churn using Python, Pandas, and Scikit-learn. [GitHub](link)
