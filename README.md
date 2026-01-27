@@ -48,7 +48,7 @@ Machine Learning • XAI • Multimodal Intelligence.
   - Document: [Notion Notes](https://www.notion.so/Smart-Construction-2910730a96738069bfbac400cb62034d?source=copy_link)
 
 [CLOSED - PROJECT WITH HCMAI TEAM]
-- The core system is hosted in a private repository, but you can find our public contributions, experiments, and Kaggle task files link here: [search-graph](https://www.kaggle.com/code/banhmuy/search-graph)
+- The core system is hosted in a private repository, but you can find our public contributions, experiments, and Kaggle task at link here: [search-graph](https://www.kaggle.com/code/banhmuy/search-graph)
  
 [TO DO]
 - [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Sign Languages & Human Activity Recognition
