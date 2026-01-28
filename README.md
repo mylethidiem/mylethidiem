@@ -41,6 +41,7 @@
 - [Intelligent-Retail-Decision-Making-System](https://github.com/mylethidiem/Intelligent-Retail-Decision-Making-System): A modular AI system designed to support data-driven retail operations powered by
 Machine Learning • XAI • Multimodal Intelligence.
 - [Heart-Sentinel](https://github.com/mylethidiem/Heart-Sentinel): Heart Sentinel is an AI-powered system that analyzes cardiovascular signals, predicts health risks, and delivers personalized lifestyle guidance.
+- [My web porfolio](https://elizabethmyn.vercel.app/): My main source code (built with Next.js) is currently **private**. Research notes [here](https://www.notion.so/Porfolio-2b70730a96738027a4aae6f0b61a10d3?v=2be0730a967380e59d15000c08c456ee&source=copy_link)
 
 [PENDING - PROJECT WITH AI COFFEE TEAM]
 - [Smart Construction](https://github.com/duongtruongbinh/Smart_Construction): Accurately and continuously identifying the active/idle status of excavators in real time, aiming to reduce energy waste, optimize equipment scheduling, and improve overall site efficiency.
@@ -48,10 +49,12 @@ Machine Learning • XAI • Multimodal Intelligence.
   - Document: [Notion Notes](https://www.notion.so/Smart-Construction-2910730a96738069bfbac400cb62034d?source=copy_link)
 
 [CLOSED - PROJECT WITH HCMAI TEAM]
-- The core system is hosted in a private repository, but you can find our public contributions, experiments, and Kaggle task at link here: [search-graph](https://www.kaggle.com/code/banhmuy/search-graph)
- 
+- The core system is hosted in a **private** repository, but you can find our public contributions, experiments, and Kaggle task at link here: [search-graph](https://www.kaggle.com/code/banhmuy/search-graph)
+
 [TO DO]
 - [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Sign Languages & Human Activity Recognition
+- Writing blog in Subtack/LinkedIn
+- Sharing experiences, knowledge about Data/AI & Tech in Instagram/Tiktok/Youtube
 
 
 <!-- - **Predicting Customer Churn**: Built a machine learning model to predict customer churn using Python, Pandas, and Scikit-learn. [GitHub](link)
