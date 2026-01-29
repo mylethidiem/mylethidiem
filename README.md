@@ -52,7 +52,7 @@
 - AIO Brain Bot - Project for HCMAI Contest: The core system is hosted in a **private** repository. My Kaggle work about creating a demo to show the query result get from Neo4j at link here: [search-graph](https://www.kaggle.com/code/banhmuy/search-graph)
 
 [TO DO]
-- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Sign Languages & Human Activity Recognition
+- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Sign Languages & Human Activity Recognition, also having game to to learn sign language.
 - Sharing experiences, knowledge about Data/AI & Tech in Subtack/LinkedIn and Instagram/Tiktok/Youtube
 
 
