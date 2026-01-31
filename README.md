@@ -43,7 +43,7 @@
 
 🟣[PENDING]
 - [Smart Construction - Project with AI Coffee Team](https://github.com/duongtruongbinh/Smart_Construction): Accurately and continuously identifying the active/idle status of excavators in real time, aiming to reduce energy waste, optimize equipment scheduling, and improve overall site efficiency.
-  - Led and managed a team of 4 members.
+  - Led and managed a team of 3 members.
   - My Works: [EDA and data normalization](https://github.com/duongtruongbinh/Smart_Construction/pull/7), [Add config for ZenML pipeline](https://github.com/duongtruongbinh/Smart_Construction/pull/6)
   - Document: [Notion Notes](https://www.notion.so/Smart-Construction-2910730a96738069bfbac400cb62034d?source=copy_link)
 - [dvc-mnist-demo](https://github.com/mylethidiem/dvc-mnist-demo): End-to-end DVC pipeline for MNIST training & tracking.
