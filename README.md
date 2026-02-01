@@ -21,9 +21,10 @@
   
 - 💻 **Background:** 7+ years as a Software Developer (C/C++, Java, Python), now focusing on **Data Science and AI applications**.
 - 🚀 **Goal:** Combine strong software engineering with data-driven intelligence to solve real-world problems.
-- 🌱 **Lifelong Learner:** Constantly exploring new AI techniques and sharing knowledge through [Learning Notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74).
+- 🌱 **Lifelong Learner:** Joined AIO HCM Club (Dec 2024 – March 2025), AI Challenge 2025 (Aug – Sep 2025), AIO VIET NAM
+Research (Oct – Nov 2025), and AIO Coffee Club (Sep 2025 – Present). Constantly exploring new AI techniques and sharing knowledge through [Learning Notes](https://concrete-tray-472.notion.site/Learning-notes-15c0730a96738028bf16e05afd34bd0c?pvs=74).
 - 🎓 Actively pursuing a **Data Science and Artificial Intelligence Program** at [AI VIET NAM](https://aivietnam.edu.vn) (November 2024 – June 2026).
-- 🧠 Building hands-on projects in Data Science & AI.
+- 🧠 Built over 12 hands-on mini-projects to apply and solidify concepts in Python, SQL, and machine learning.
 </div>
 </div>
 
