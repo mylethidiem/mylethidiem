@@ -37,7 +37,7 @@ Research (Oct – Nov 2025), and AIO Coffee Club (Sep 2025 – Present). Constan
   
 🟠[WORK IN PROGRESS]
 - [zero-to-hero](https://github.com/mylethidiem/zero-to-hero): Learning project include praceticing in courses, leetcode, kaggle, datalemur...
-- [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): Data Science and Artificial Intelligence Projects.
+- [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): A collection of hands-on mini-projects applying and exploring data science and AI concepts with Python, SQL, and machine learning.
 - [Intelligent-Retail-Decision-Making-System](https://github.com/mylethidiem/Intelligent-Retail-Decision-Making-System): A multi-module AI platform designed to enhance retail operations, analytics, and automation.
 - [Heart-Sentinel](https://github.com/mylethidiem/Heart-Sentinel): Heart Sentinel is an AI-powered system that analyzes cardiovascular signals, predicts health risks, and delivers personalized lifestyle guidance.
 - [My web porfolio](https://elizabethmyn.vercel.app/): My main source code (built with Next.js) is currently **private**. Research notes [here](https://www.notion.so/Porfolio-2b70730a96738027a4aae6f0b61a10d3?v=2be0730a967380e59d15000c08c456ee&source=copy_link)
