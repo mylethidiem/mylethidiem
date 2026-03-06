@@ -46,14 +46,16 @@ Research (Oct – Nov 2025), and AIO Coffee Club (Sep 2025 – Present). Constan
 
 🟠[On Going]
 - [Intelligent-Retail-Decision-Making-System](https://github.com/mylethidiem/Intelligent-Retail-Decision-Making-System): A multi-module AI platform designed to enhance retail operations, analytics, and automation.
-- [Heart-Sentinel](https://github.com/mylethidiem/Heart-Sentinel): Heart Sentinel is an AI-powered system that analyzes cardiovascular signals, predicts health risks, and delivers personalized lifestyle guidance.
+    - Task: Add more features in [Notion note](https://www.notion.so/Intelligent-Retail-Decision-Making-System-2c30730a967380bd9139fd540ffb50f8)
 - [My web porfolio](https://elizabethmyn.vercel.app/): My main source code (built with Next.js) is currently **private**. Research notes [here](https://www.notion.so/Porfolio-2b70730a96738027a4aae6f0b61a10d3?v=2be0730a967380e59d15000c08c456ee&source=copy_link)
+     - Task: Add blogs for projects in Projects tab
 
 🟣[PENDING]
 - [Smart Construction - Project with AI Coffee Team](https://github.com/duongtruongbinh/Smart_Construction): Accurately and continuously identifying the active/idle status of excavators in real time, aiming to reduce energy waste, optimize equipment scheduling, and improve overall site efficiency.
   - Led and managed a team of 3 members.
   - My Works: [EDA and data normalization](https://github.com/duongtruongbinh/Smart_Construction/pull/7), [Add config for ZenML pipeline](https://github.com/duongtruongbinh/Smart_Construction/pull/6)
   - Document: [Notion Notes](https://www.notion.so/Smart-Construction-2910730a96738069bfbac400cb62034d?source=copy_link)
+- [Heart-Sentinel](https://github.com/mylethidiem/Heart-Sentinel): Heart Sentinel is an AI-powered system that analyzes cardiovascular signals, predicts health risks, and delivers personalized lifestyle guidance.
 - [dvc-mnist-demo](https://github.com/mylethidiem/dvc-mnist-demo): End-to-end DVC pipeline for MNIST training & tracking.
 
 ⚫[CLOSED]
@@ -61,6 +63,7 @@ Research (Oct – Nov 2025), and AIO Coffee Club (Sep 2025 – Present). Constan
 
 🔵[TO DO]
 - Sharing experiences, knowledge about Data/AI & Tech in Subtack/LinkedIn and Instagram/Tiktok/Youtube
+- Update document in some projects (Also for Pending and Closed projects)
 
 <!-- - **Predicting Customer Churn**: Built a machine learning model to predict customer churn using Python, Pandas, and Scikit-learn. [GitHub](link)
 - **ETL Pipeline for E-commerce Data**: Designed and implemented a robust ETL pipeline using Apache Spark. [GitHub](link)
