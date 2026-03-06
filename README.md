@@ -36,9 +36,12 @@ Research (Oct – Nov 2025), and AIO Coffee Club (Sep 2025 – Present). Constan
 
 <div align="left">
   
-🟠[WORK IN PROGRESS]
+🟢[WORK IN PROGRESS]
+- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Sign Languages & Human Activity Recognition, also having game to to learn sign language.
 - [zero-to-hero](https://github.com/mylethidiem/zero-to-hero): Learning project include praceticing in courses, leetcode, kaggle, datalemur...
 - [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): A collection of hands-on mini-projects applying and exploring data science and AI concepts with Python, SQL, and machine learning.
+
+🟠[On Going]
 - [Intelligent-Retail-Decision-Making-System](https://github.com/mylethidiem/Intelligent-Retail-Decision-Making-System): A multi-module AI platform designed to enhance retail operations, analytics, and automation.
 - [Heart-Sentinel](https://github.com/mylethidiem/Heart-Sentinel): Heart Sentinel is an AI-powered system that analyzes cardiovascular signals, predicts health risks, and delivers personalized lifestyle guidance.
 - [My web porfolio](https://elizabethmyn.vercel.app/): My main source code (built with Next.js) is currently **private**. Research notes [here](https://www.notion.so/Porfolio-2b70730a96738027a4aae6f0b61a10d3?v=2be0730a967380e59d15000c08c456ee&source=copy_link)
@@ -54,9 +57,7 @@ Research (Oct – Nov 2025), and AIO Coffee Club (Sep 2025 – Present). Constan
 - AIO Brain Bot - Project for HCMAI Contest: The core system is hosted in a **private** repository. My Kaggle work about creating a demo to show the query result get from Neo4j at link here: [search-graph](https://www.kaggle.com/code/banhmuy/search-graph)
 
 🔵[TO DO]
-- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Sign Languages & Human Activity Recognition, also having game to to learn sign language.
 - Sharing experiences, knowledge about Data/AI & Tech in Subtack/LinkedIn and Instagram/Tiktok/Youtube
-
 
 <!-- - **Predicting Customer Churn**: Built a machine learning model to predict customer churn using Python, Pandas, and Scikit-learn. [GitHub](link)
 - **ETL Pipeline for E-commerce Data**: Designed and implemented a robust ETL pipeline using Apache Spark. [GitHub](link)
