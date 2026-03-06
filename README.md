@@ -37,9 +37,12 @@ Research (Oct – Nov 2025), and AIO Coffee Club (Sep 2025 – Present). Constan
 <div align="left">
   
 🟢[WORK IN PROGRESS]
-- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis): Sign Languages & Human Activity Recognition, also having game to to learn sign language.
+- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis) - Sign Languages & Human Activity Recognition, also having game to to learn sign language:
+    - Task: Merge project Heart Sentinel into Omni-Synesis
 - [zero-to-hero](https://github.com/mylethidiem/zero-to-hero): Learning project include praceticing in courses, leetcode, kaggle, datalemur...
+    - Task: AI VIETNAM (module 4-7), NVNS course(cpp) practice, the cherno cpp practice, Cpp Hackerrank
 - [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): A collection of hands-on mini-projects applying and exploring data science and AI concepts with Python, SQL, and machine learning.
+  - Task: AI VIETNAM projects (module 4-7)
 
 🟠[On Going]
 - [Intelligent-Retail-Decision-Making-System](https://github.com/mylethidiem/Intelligent-Retail-Decision-Making-System): A multi-module AI platform designed to enhance retail operations, analytics, and automation.
