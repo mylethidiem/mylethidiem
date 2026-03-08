@@ -37,7 +37,7 @@ Research (Oct – Nov 2025), and AIO Coffee Club (Sep 2025 – Present). Constan
 <div align="left">
   
 🟢[WORK IN PROGRESS]
-- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis) - Game to to learn Sign Languages
+- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis) - Relax and healthy: Game to to learn Sign Languages, also having health care feature
     - Task: Merge project Heart Sentinel into Omni-Synesis
 - [zero-to-hero](https://github.com/mylethidiem/zero-to-hero): Learning project include praceticing in courses, leetcode, kaggle, datalemur...
     - Task: AI VIETNAM (module 4-7), NVNS course(cpp) practice, the cherno cpp practice, Cpp Hackerrank
