@@ -37,8 +37,11 @@ Research (Oct – Nov 2025), and AIO Coffee Club (Sep 2025 – Present). Constan
 <div align="left">
   
 🟢[WORK IN PROGRESS]
-- [Omni-Synesis](https://github.com/mylethidiem/Omni-Synesis) - Relax and healthy: Game to to learn Sign Languages, also having health care feature
-    - Task: Merge project Heart Sentinel into Omni-Synesis
+- Omni-Synesis [[Github](https://github.com/mylethidiem/Omni-Synesis), [Gitlab](https://gitlab.com/banhmuy/Omni-Synesis)] - Relax and healthy: Game to to learn Sign Languages, also having health care feature
+    - Task:
+      - Add Inventory Game
+      - Add Gitlab CI/CD (Gitlab source only)
+      - Merge project Heart Sentinel into Omni-Synesis
 - [zero-to-hero](https://github.com/mylethidiem/zero-to-hero): Learning project include praceticing in courses, leetcode, kaggle, datalemur...
     - Task: AI VIETNAM (module 4-7), NVNS course(cpp) practice, the cherno cpp practice, Cpp Hackerrank
 - [data-science-artificial-intelligence-projects](https://github.com/mylethidiem/data-science-artificial-intelligence-projects): A collection of hands-on mini-projects applying and exploring data science and AI concepts with Python, SQL, and machine learning.
