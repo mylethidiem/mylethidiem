@@ -7,7 +7,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXkyN3AwOGJmYTg5cnJ3aDhiemZtaTg4c2M1MjBxNmQwOXFsZmRnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jt8mEC6Kffbwbv2tNH/giphy.gif" width="35px"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGcyN3MxMzJkcWY0cmNleWtwZHp1cmxhOTJldDk5dWEwbGV3YW12dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5mrH1oYc3NZFLiQtIy/giphy.gif" width="45px"/>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&width=526center=true&vCenter=true&lines=Learning%2C+Building%2C+and+Growing+in+Data+%26+AI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=526&center=true&vCenter=true&lines=Automate.+Stabilize.+Continuously+Improve."
+ alt="Typing SVG" /></a>
 </h3>
 
 <p align="center">
